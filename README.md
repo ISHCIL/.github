@@ -1,2 +1,0 @@
-# .github
-ISHCIL Home page.
